@@ -263,3 +263,5 @@ Self-paced lesson on [Programming with Python](https://swcarpentry.github.io/pyt
 ## Introduction :: Geospatial Fundamentals (Optional)
 
 Detailed self-paced lesson on [Fundamentals of Geospatial Raster and Vector Data with Python](https://carpentries-incubator.github.io/geospatial-python/) from Data Carpentry
+
+Test conflict!
